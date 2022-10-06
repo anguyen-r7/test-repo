@@ -1,7 +1,6 @@
 # Read Me
 
-This is a read me for the test repo. 
-This repo is used to test webhooks for the non-compliance app.
+This is anguyen-r7 test repo. 
 
 ## Subheading 1
 content 1
